@@ -1,0 +1,31 @@
+_repo: Homeburg-Memories_19196
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitch, George
+    birthdate: 1877
+    deathdate: 1915
+    gutenberg_agent_id: '8547'
+    url: http://www.gutenberg.org/2009/agents/8547
+description: ''
+gutenberg_issued: '2006-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'City and town life -- Fiction'
+tableOfContents: The 4:11 train -- The friendly fire-fiend -- Homeburg's two four-hundredths
+  -- The servant question in Homeburg -- Homeburg's leisure class -- Homeburg's worst
+  enemy -- The Homeburg Weekly Democrat -- The Homeburg Marine Band -- The auto game
+  in Homeburg -- The Homeburg telephone exchange -- A Homeburg school election --
+  Christmas at Homeburg.
+title: Homeburg Memories
+url: http://www.gutenberg.org/ebooks/19196
